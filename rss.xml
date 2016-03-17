@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ultraverse]]></title>
-        <description><![CDATA[Ultraverse]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Welcome to the Ultraverse]]></title>
+        <description><![CDATA[Welcome to the Ultraverse]]></description>
+        <link>http://ultraversemusic.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 05:33:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Mar 2016 05:33:54 GMT</lastBuildDate>
+        <atom:link href="http://ultraversemusic.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Ultraverse]]></title>
-            <description><![CDATA[<article><h1>Ultraverse</h1><p>Welcome to the Ultraverse</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/916b7479e8ef67a1f7813e4b251d5875eeba3f58.jpg"></article>]]></description>
-            <link>undefinedultraverse/index.html</link>
+            <title><![CDATA[Sights and Sounds]]></title>
+            <description><![CDATA[<article><h1>Sights and Sounds</h1><p>Welcome to the Ultraverse</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/916b7479e8ef67a1f7813e4b251d5875eeba3f58.jpg"></article>]]></description>
+            <link>http://ultraversemusic.com/ultraverse/index.html</link>
             <guid isPermaLink="false">156e6109-5a0c-49fa-95d2-4098d4373b6d</guid>
-            <pubDate>Wed, 16 Mar 2016 05:33:33 GMT</pubDate>
+            <pubDate>Thu, 17 Mar 2016 05:33:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
